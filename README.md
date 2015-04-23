@@ -1,17 +1,20 @@
+*(CV in progress)*
 # Gabriel Arafa
 
 *introduction*
 
 ## Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-- ...
+- Software Crafstmanship
+- Teamwork
+- Communication
+- Rapid, independent learning
+- Working under pressure
+- Delivering value to clients
 
 ## Education
 
-#### Makers Academy (February - April 2015)
+#### Makers Academy (February 2015 Cohort)
 
 - Agile practices
 - Pair programming
