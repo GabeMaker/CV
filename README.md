@@ -39,6 +39,7 @@ I'm a junior software developer with a passion for good practice, continuous lea
 
 **Cancer Research UK (June 2015)**
 *Trainee Developer (Volunteer)*
+
 **London Ambulance Service (2009 - 2014)**
 *Emergency Medical Dispatcher*
 
