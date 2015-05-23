@@ -27,6 +27,7 @@ I'm a junior software developer with a passion for good practice, continuous lea
 - OOP, TDD, SOLID, MVC
 - Ruby, Rails, Javascript, Node.js, Angular,js
 - Rspec, Jasmine
+- Organised 'CodeJam' kata sessions 
 
 #### University of Edinburgh (2004 - 2008)
 
