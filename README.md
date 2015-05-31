@@ -1,7 +1,7 @@
 *(Please note my CV is currently a work in progress)*
 # Gabriel Arafa
 
-I'm a junior software developer passionate about continuous learning and collaboration. After 5 years working as an emergency medical dispatcher for the London Ambulance Service, I decided I wanted to try my hand at coding. I've always enjoyed problem solving and the development world struck me as a good place to find exciting and hopefully fulfilling work. I have since completed a 12-week bootcamp at Makers Academy and am continuing to develop my skills and immerse myself in the London tech scene.
+I'm a junior software developer passionate about continuous learning and collaboration. After 5 years working as an emergency medical dispatcher for the London Ambulance Service, I decided I wanted to try my hand at coding. I've always enjoyed problem solving and the development world struck me as a good place to find exciting and hopefully fulfilling work. I have since graduated from a 12-week bootcamp at Makers Academy and am developing my skills as a volunteer with Cancer Research UK while continuing to explore the London tech scene.
 
 ## Skills
 
