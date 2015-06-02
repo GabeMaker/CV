@@ -6,11 +6,10 @@ I'm a junior software developer passionate about continuous learning and collabo
 ## Skills
 
 - Software Crafstmanship
-- Teamwork
-- Communication
-- Rapid, independent learner
+- Teamwork and excellent communication
+- Rapid, independent learning
 - Working under pressure
-- Delivering value to clients
+- Delivering value for clients
 
 ## Projects
 - **Royalty Loyalty:** Ruby on Rails app made with other students for the 'Stemettes' charity. Girls use it to check-in and out of STEM events and are prompted to complete surveys to earn points. The points can be exchanged for rewards and the survey answers allow the charity to measure the impact of their work. [heroku](https://stemettes-master.herokuapp.com/) / [code](https://github.com/STEMettes/royalty_loyalty) 
