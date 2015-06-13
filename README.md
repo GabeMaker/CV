@@ -39,6 +39,10 @@ I'm a junior software developer passionate about continuous learning and collabo
 
 **Cancer Research UK (June 2015)**
 *Trainee Developer (Volunteer)*
+- Assisting on Support rota (troubleshooting across scrum teams)
+- Observing the planning and execution of 2-week development sprints
+- Shadowing and pairing with other developers
+- Learning Drupal / PHP
 
 **London Ambulance Service (2009 - 2014)**
 *Emergency Medical Dispatcher*
