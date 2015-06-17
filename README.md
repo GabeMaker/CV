@@ -14,25 +14,23 @@ I'm a junior software developer passionate about continuous learning and collabo
 | **Delivering Value for Clients** |For our final project, our team worked with an external client - the Stemettes charity - to develop a user-engagement app. Working from their initial pitch, we produced wireframe models of our vision for their product, refining these after regular meetings with stakeholders. We responded to new ideas, changing demands and technological limitations, delivering a solution that our client loved and will be the prototype in their pitch to get further funding.|
 
 ## Projects
+*(in progress)*
 - **Royalty Loyalty:** Ruby on Rails app for the 'Stemettes' charity. Girls use it to check-in and out of events they attend and are prompted to complete surveys to earn points. The points can be exchanged for rewards and the survey answers allow the charity to measure the impact of their work. [heroku](https://stemettes-master.herokuapp.com/) / [code](https://github.com/STEMettes/royalty_loyalty) 
 
 
 ## Education
 
-#### Makers Academy (February 2015 Cohort)
+##### Makers Academy (February 2015 Cohort)
+######*Web-development bootcamp. Content included:*
 
-- Agile practices
-- Pair programming
-- Team projects
-- Working for an external client
-- TDD, BDD, SOLID, OOP, MVC
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Cucumber
-- Organised 'CodeJam' kata sessions 
+- Pair programming, Team projects, Independent study
+- Agile, TDD, BDD, OOP, SOLID, MVC
+- Git and GitHub, using APIs (e.g. TypeForm, Twilio, Wordpress) and JSON
+- HTML, CSS, Ruby, Ruby on Rails, Javascript, jQuery, Node.js, Angular.js
+- Testing using Rspec, Jasmine, Cucumber
 
-#### University of Edinburgh (2004 - 2008)
-
-- Philosophy MA
+##### University of Edinburgh (2004 - 2008)
+######*Philosophy MA*
 - 2 years Mathematics, 1 year Arabic
 - Scholarship to Dartmouth College, USA (Summer 2007)
 - Taught Health and Sex Education in Rwanda (Summer 2006)
@@ -41,16 +39,23 @@ I'm a junior software developer passionate about continuous learning and collabo
 
 **Cancer Research UK (June 2015)**
 *Trainee Developer (Volunteer)*
-- Assisting on Support rota (troubleshooting across scrum teams)
+- Assisting with Support role (troubleshooting across scrum teams)
+- Using JIRA and ServiceNow
 - Observing the planning and execution of 2-week development sprints
 - Shadowing and pairing with other developers
 - Learning Drupal / PHP
 
 **London Ambulance Service (2009 - 2014)**
 *Emergency Medical Dispatcher*
+- Handled 50,000+ emergency calls
+- Assisted in the delivery of more than 20 babies
+- Delivered targets through 2012 Olympics, London Riots and other periods of high pressure
+- Excellent quality assurance scores while maintaining very high call-taking speed
 
 **TeachFirst / Prescot School, Merseyside (2008)**
 *Secondary Maths Teacher*
 
 **University of Edinburgh Accommodation Services (2005 - 2008)**
 *Residents' Assistant*
+
+*Further details and references available on request*
