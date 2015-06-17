@@ -5,8 +5,8 @@ I'm a junior software developer passionate about continuous learning and collabo
 
 ## Skills
 
-|       |            
-|: ------------- :|:-------------| 
+|       |          |  
+|:-------------:|:-------------| 
 | **Software Craftsmanship**      |I graduated from Makers Academy, a 12-week bootcamp where I learned the fundamentals of web development. The course placed constant emphasis on Agile methods, Test-driven Development and clean, elegant code. Through project work and support from coaches and other students, I have developed a solid understanding of these concepts and am committed to continuously improving my skills according to best practice.| 
 | **Teamwork and Communication**      |Extensive experience of pair programming with a wide variety of developers. I worked in teams of 4-5 students on several projects at Makers Academy, participating in daily stand-ups and regular retrospectives and using Kanban and other methods for sharing and prioritising work. While volunteering at Cancer Research UK, I have gained an understanding of how development teams operate in large organisations and have participated in scrum team planning for 2-week development sprints and a cross-team retrospective where new features were demonstrated.| 
 | **Rapid, Independent Learning** |In a very short time I have grown an initial interest in technology and problem solving into an effective and flexible skill set, suitable for a role as a junior developer. At Makers Academy, I worked on projects with peers during the week, sharing ideas and accelerating our learning through pair-programming. I demonstrated understanding of key concepts and techniques by completing independent weekend challenge projects. I adapt to new technologies quickly and I am confident in using web resources alongside the support of colleagues and my wider network to gain further understanding when needed.|
