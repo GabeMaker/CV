@@ -5,7 +5,7 @@ I'm a junior software developer passionate about continuous learning and collabo
 
 ## Skills
 
-- Software Crafstmanship
+- Software craftsmanship
 - Teamwork and excellent communication
 - Rapid, independent learning
 - Working under pressure
