@@ -27,7 +27,7 @@ I'm a junior software developer passionate about continuous learning and collabo
 - Agile, TDD, BDD, OOP, SOLID, MVC
 - Git and GitHub, using APIs (e.g. TypeForm, Twilio, Wordpress) and JSON
 - HTML, CSS, Ruby, Ruby on Rails, Javascript, jQuery, Node.js, Angular.js
-- Testing using Rspec, Jasmine, Cucumber
+- Testing using Rspec, Jasmine, Cucumber, Capybara
 
 ##### University of Edinburgh (2004 - 2008)
 ######*Philosophy MA*
